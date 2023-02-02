@@ -5,6 +5,10 @@ fun main(args: Array<String>) {
     var weightInKg : Float = 49.50F
     var citizen : Boolean = true
     println(fullName)
+    println(age)
+    println(phoneNumber)
+    println(weightInKg)
+    println(citizen)
 
 
 }
